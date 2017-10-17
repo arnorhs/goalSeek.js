@@ -1,0 +1,19 @@
+{
+  "name": "goalseek",
+  "version": "1.0.0",
+  "description": "basically copy and pasted, adapted and made work with npm / commonjs etc from https://github.com/adam-hanna/goalSeek.js",
+  "main": "goalSeek.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnorhs/goalSeek.js.git"
+  },
+  "author": "Adam Hanna / Arnor Sigurdsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnorhs/goalSeek.js/issues"
+  },
+  "homepage": "https://github.com/arnorhs/goalSeek.js#readme"
+}

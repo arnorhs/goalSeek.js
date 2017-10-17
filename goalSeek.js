@@ -1,7 +1,7 @@
-function goalSeek(oParams) {
+module.exports = function goalSeek(oParams) {
 	var g, Y, Y1, OldTarget;
 
-	oParams.Tol = (oParams.Tol || 0.001 * Goal);
+	oParams.Tol = (oParams.Tol || 0.001 * oParams.Goal);
 	oParams.maxIter = (oParams.maxIter || 1000);
 
 	//is the independent variable within an object?
